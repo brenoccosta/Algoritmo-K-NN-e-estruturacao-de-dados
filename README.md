@@ -1,4 +1,4 @@
-# Algoritmo-K-NN-e-estruturacao-de-dados
+# Algoritmo K-NN e estruturação de dados
 
 O *dataset* [Forest Cover Type Prediction | Kaggle](https://www.kaggle.com/c/forest-cover-type-prediction) foi objeto de uma competição em 2015 cujo objetivo era desenvolver o melhor algoritmo que aplicasse a tarefa de classificação no banco de dados da **Floresta Nacional Roosevelt**, no estado do Colorado - EUA. Tal banco de dados é composto por 15.120 entradas, cada uma com cinquenta e seis atributos, sendo vencedor aquele que melhor classificasse as outras 565.892 entradas, indisponíveis aos internautas mesmo após o encerramento.
 Ele consiste em recortes de 30mx30m da floresta cujo intuito é automatizar a identificação da espécie predominante naquele terreno, trazendo informações tais como elevação/altitude, inclinação, distância da fonte de água mais próxima, região, tipo de solo, dentre outros. São sete espécies no total e cada uma possui o mesmo número de entradas, *i.e.*, 2.160.
