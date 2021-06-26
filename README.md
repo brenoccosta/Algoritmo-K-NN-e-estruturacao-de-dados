@@ -30,7 +30,7 @@ A reorganização dos dados, da supressão de ruídos (como angulação em azimu
 
 Visando uma performance ainda mais alavancada, as nove colunas não-categóricas foram normalizadas e uma nova matriz de confusão, gerada:
 
-![Matriz de confusão com tabela normalizada](https://github.com/brenoccosta/Algoritmo-K-NN-e-estruturacao-de-dados/blob/afda61b6b3263e82db425c3d59a1d834a746d21d/%5BGit%5D%20K-NN%20Tabela%20Normal.png?raw=True "Tabela normalizada")
+![Matriz de confusão com tabela normalizada](https://github.com/brenoccosta/Algoritmo-K-NN-e-estruturacao-de-dados/blob/ec02b2038d887a0fa1ff4fba173f88f2954855d8/Matrizes/%5BGit%5D%20K-NN%20Tabela%20Normal.png?raw=True "Tabela normalizada")
 
 Devido à alta precisão, avanços milimétricos são mais difíceis de se alcançar. Por pequena que pareça a diferença, simplesmente haver basta para que seja preferível a normalização à não-normalização dos dados neste caso.
 
