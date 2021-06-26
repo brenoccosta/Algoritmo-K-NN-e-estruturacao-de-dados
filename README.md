@@ -7,7 +7,7 @@ Ele consiste em recortes de 30mx30m da floresta cujo intuito é automatizar a id
 
 O *dataset* disponibilizado carece de uma estruturação inteligente das informações embutidas. Quase que por curiosidade, a aplicação imediata do K-NN fornece uma boa pista do quanto deve ser reprocessado o banco de dados antes de se prosseguir com o trabalho.
 
-![Matriz de confusão do algoritmo K-NN aplicado ao *dataset* sem qualquer manuseio.](https://github.com/brenoccosta/Algoritmo-K-NN-e-estruturacao-de-dados/blob/afda61b6b3263e82db425c3d59a1d834a746d21d/%5BGit%5D%20K-NN%20Treino.png?raw=True)
+![Matriz de confusão do algoritmo K-NN aplicado ao *dataset* sem qualquer manuseio.](https://github.com/brenoccosta/Algoritmo-K-NN-e-estruturacao-de-dados/blob/19f90293723064e15bddff0a549847a6dc033e8e/Matrizes/%5BGit%5D%20K-NN%20Treino.png?raw=True)
 
 > Observação: aplicou-se um teste de 20% da amostra e usou-se o método `stratify`, da função `train_test_split` da biblioteca `sklearn.model_selection`, para garantir que uma mesma quantidade amostral fosse retirada de cada categoria (espécie), uma vez que estão igualmente presentes no banco de dados.
 
