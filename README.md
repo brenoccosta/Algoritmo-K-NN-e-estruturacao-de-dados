@@ -11,7 +11,7 @@ O *dataset* disponibilizado carece de uma estruturação inteligente das informa
 
 > Observação: aplicou-se um teste de 20% da amostra e usou-se o método `stratify`, da função `train_test_split` da biblioteca `sklearn.model_selection`, para garantir que uma mesma quantidade amostral fosse retirada de cada categoria (espécie), uma vez que estão igualmente presentes no banco de dados.
 
-Apenas as classes 4 e 7 foram razoavelmente identificadas pelo algoritmo, com a 5 logo atrás, por tais espécies serem muito particulares, conforme se verá adiante. Porém, quaisquer espécimes com características próximas às particularidades dessas três espécies foram enquadradas nessas classes, que apresentam mais de cem indivíduos erroneamente atribuídos. A exceção são as espécies 1 e 2 que se confundem entre si devido a grandes semelhanças.
+Apenas as classes 4 e 7 foram razoavelmente identificadas pelo algoritmo, com a 5 logo atrás, por tais espécies serem muito particulares, conforme pode ser visto [aqui](https://github.com/brenoccosta/Visualizacao-exemplo-de-analise-de-dados). Porém, quaisquer espécimes com características próximas às particularidades dessas três espécies foram enquadradas nessas classes, que apresentam mais de cem indivíduos erroneamente atribuídos. A exceção são as espécies 1 e 2 que se confundem entre si devido a grandes semelhanças.
 
 ## Limpeza e processamento dos dados
 ### Limpeza
