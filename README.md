@@ -22,7 +22,7 @@ Procedeu-se à adição de duas novas colunas categóricas, variando de 1 a 4 e 
 
 Após essa etapa, a nova tabela contava tão somente com doze colunas, das quais três eram categóricas (lembrando que a primeira categoria era de espécie), e o novo K-NN apresentou melhoras significativas:
 
-![Matriz de confusão após a limpeza de dados.](https://github.com/brenoccosta/Algoritmo-K-NN-e-estruturacao-de-dados/blob/afda61b6b3263e82db425c3d59a1d834a746d21d/%5BGit%5D%20K-NN%20Treino%20Final.png?raw=True)
+![Matriz de confusão após a limpeza de dados.](https://github.com/brenoccosta/Algoritmo-K-NN-e-estruturacao-de-dados/blob/3d4210462b193f4b04e9f0d74df91ac6c1a8dd4e/Matrizes/%5BGit%5D%20K-NN%20Treino%20Final.png?raw=True)
 
 A reorganização dos dados, da supressão de ruídos (como angulação em azimute e em graus) e de dados que não eram informação (como a coluna identificadora) levou o algoritmo K-NN a uma melhora chocante de se ver, tanto pela simplicidade da reestruturação, quanto pela simplicidade do algoritmo, que com alta eficácia cumpre com o que lhe fora solicitado.
 
